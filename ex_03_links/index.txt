@@ -11,7 +11,7 @@
 			<a href="https://www.google.com.br/"target="_self">google</a>
 
 			<p>Link para envio de email</p>
-			<p><a href="maito:sarahveiga55@gmail.com">enviar email</a></p>
+			<p><a href="maito:livialyandra9@gmail.com">enviar email</a></p>
 
 
 			<p>inserir imagem usando link</p>
