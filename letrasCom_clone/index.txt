@@ -10,5 +10,8 @@
 	</head>
 <body>
 	<img src="img/topo.png"alt="topo da página">
+	<p>página inicial >> piseiro >> Grelo >> Só fé</p>
+
+	<img src="img/anuncio.png" alt="Banner de propaganda">
 </body>
 </html>
